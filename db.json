@@ -9,9 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  },
-  "test": {
     "code": "0000",
     "message": "操作成功",
     "data": {},
